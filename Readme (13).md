@@ -42,9 +42,6 @@ The dataset includes 364 videos and 70+ features such as:
 ## Author
 **Jaydev Chole**
 MSc Data Science | Aspiring Data Analyst
-GitHub:(https://github.com/jaydevchole)
-LinkedIn:(https://www.linkedin.com/in/jaydev-chole-b3313b327)
-
 
 
 
